@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.75454905.chunk.css",
+    "main.js": "/portfolio/static/js/main.fdf38503.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fdf38503.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e92c632a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e92c632a.js.map",
+    "static/js/2.edca357e.chunk.js": "/portfolio/static/js/2.edca357e.chunk.js",
+    "static/js/2.edca357e.chunk.js.map": "/portfolio/static/js/2.edca357e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.4b1e6c881e99c6c8c9f0d33b453408d8.js": "/portfolio/precache-manifest.4b1e6c881e99c6c8c9f0d33b453408d8.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.75454905.chunk.css.map": "/portfolio/static/css/main.75454905.chunk.css.map",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/PhoneStartCar.png": "/portfolio/static/media/PhoneStartCar.d296e138.png",
+    "static/media/PoliceCamIntro.png": "/portfolio/static/media/PoliceCamIntro.fd91a7c3.png",
+    "static/media/cloud_infrastructure.svg": "/portfolio/static/media/cloud_infrastructure.8ea92781.svg",
+    "static/media/codeInLogo.png": "/portfolio/static/media/codeInLogo.b3685be8.png",
+    "static/media/computer.svg": "/portfolio/static/media/computer.048c63a0.svg",
+    "static/media/contactMail.png": "/portfolio/static/media/contactMail.d6d4086f.png",
+    "static/media/data_science.svg": "/portfolio/static/media/data_science.434d2b01.svg",
+    "static/media/developer.png": "/portfolio/static/media/developer.0af9134c.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/all.css": "/portfolio/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/fullstack.svg": "/portfolio/static/media/fullstack.589bec7d.svg",
+    "static/media/jsFramework.svg": "/portfolio/static/media/jsFramework.b05ae5b5.svg",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/portfolio.gif": "/portfolio/static/media/portfolio.6e7dc5ad.gif",
+    "static/media/programmer.svg": "/portfolio/static/media/programmer.c1a95f73.svg",
+    "static/media/pwa.png": "/portfolio/static/media/pwa.bd5f4148.png",
+    "static/media/sauna.png": "/portfolio/static/media/sauna.d414fb7c.png",
+    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.0288c5ec.svg",
+    "static/media/talksCardBackAlt.svg": "/portfolio/static/media/talksCardBackAlt.b48e86c9.svg",
+    "static/media/ui_ux_design.svg": "/portfolio/static/media/ui_ux_design.09f1268b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e92c632a.js",
+    "static/js/2.edca357e.chunk.js",
+    "static/css/main.75454905.chunk.css",
+    "static/js/main.fdf38503.chunk.js"
+  ]
+}
