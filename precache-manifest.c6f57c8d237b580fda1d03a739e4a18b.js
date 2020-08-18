@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aca6a49978875a0406b121aa20eb15f1",
+    "revision": "7dffd0e792e204ca866a427b4b33079e",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "8e0b17c693bb38939ea7",
-    "url": "/portfolio/static/css/main.b21b9036.chunk.css"
+    "revision": "02c834f5255e198e44f8",
+    "url": "/portfolio/static/css/main.55512777.chunk.css"
   },
   {
     "revision": "a7df038f0b57c4cb4966",
     "url": "/portfolio/static/js/2.edca357e.chunk.js"
   },
   {
-    "revision": "8e0b17c693bb38939ea7",
-    "url": "/portfolio/static/js/main.29594a9d.chunk.js"
+    "revision": "02c834f5255e198e44f8",
+    "url": "/portfolio/static/js/main.2ab7e329.chunk.js"
   },
   {
     "revision": "76aa8cbd67b5c937ec2c",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/businessGuy.11a8091b.svg"
   },
   {
-    "revision": "59a68c263314d7f380c4cabfb938d646",
-    "url": "/portfolio/static/media/businessmangreets.59a68c26.svg"
+    "revision": "820739fd10f582778133326404afc2f2",
+    "url": "/portfolio/static/media/businessmangreets.820739fd.svg"
   },
   {
     "revision": "ad85d35bde1f94ce914b2d742b576e90",
