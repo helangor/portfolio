@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e454e673e5a6664548f750b5c3c43168",
+    "revision": "0db371003bb53e3b83bce1428ee7221e",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7b4e6593a5c8cdb70dc6",
+    "revision": "665b78e281405455e7fe",
     "url": "/portfolio/static/css/main.55512777.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.edca357e.chunk.js"
   },
   {
-    "revision": "7b4e6593a5c8cdb70dc6",
-    "url": "/portfolio/static/js/main.837dbaaf.chunk.js"
+    "revision": "665b78e281405455e7fe",
+    "url": "/portfolio/static/js/main.2766ffb2.chunk.js"
   },
   {
     "revision": "76aa8cbd67b5c937ec2c",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "fd904d83bcfd3b0d3753a291b39c7ce6",
-    "url": "/portfolio/static/media/introscreenPriceAnalyser.fd904d83.png"
+    "revision": "655a2bdbdc8e74acbf97dac083f631b1",
+    "url": "/portfolio/static/media/introscreenPriceAnalyser.655a2bdb.png"
   },
   {
     "revision": "0a4347797e7dc6e82ed3495a0db18b8f",
