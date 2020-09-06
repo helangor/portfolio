@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3ce74d1c853c09c20a27b2a1592999e7",
+    "revision": "482ba8f7e2ff780d4ed38a1e27017f74",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "745d596fbf1ca051e909",
+    "revision": "374c14bef5feede08e61",
     "url": "/portfolio/static/css/main.55512777.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.edca357e.chunk.js"
   },
   {
-    "revision": "745d596fbf1ca051e909",
-    "url": "/portfolio/static/js/main.ad4887bb.chunk.js"
+    "revision": "374c14bef5feede08e61",
+    "url": "/portfolio/static/js/main.be2d5f8e.chunk.js"
   },
   {
     "revision": "76aa8cbd67b5c937ec2c",
@@ -26,10 +26,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "d296e1388b8f01eabf9038652e83deaa",
-    "url": "/portfolio/static/media/PhoneStartCar.d296e138.png"
   },
   {
     "revision": "11a8091b788dddc01af94c8b65d8520d",
@@ -114,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d414fb7c38cd7a27827520fc50f22e4e",
     "url": "/portfolio/static/media/sauna.d414fb7c.png"
+  },
+  {
+    "revision": "8ffd3480fd1376cff75d751e08c72b8d",
+    "url": "/portfolio/static/media/shipRadar.8ffd3480.png"
   },
   {
     "revision": "659d6d5e7e829cdcfe049a15bd6a8063",

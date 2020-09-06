@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.55512777.chunk.css",
-    "main.js": "/portfolio/static/js/main.ad4887bb.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ad4887bb.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.be2d5f8e.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.be2d5f8e.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.e92c632a.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.e92c632a.js.map",
     "static/js/2.edca357e.chunk.js": "/portfolio/static/js/2.edca357e.chunk.js",
     "static/js/2.edca357e.chunk.js.map": "/portfolio/static/js/2.edca357e.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.48e2b6827f13a318564295887e3c2889.js": "/portfolio/precache-manifest.48e2b6827f13a318564295887e3c2889.js",
+    "precache-manifest.a2e6c5fb66caf0e5891662bd4b34212a.js": "/portfolio/precache-manifest.a2e6c5fb66caf0e5891662bd4b34212a.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.55512777.chunk.css.map": "/portfolio/static/css/main.55512777.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/PhoneStartCar.png": "/portfolio/static/media/PhoneStartCar.d296e138.png",
     "static/media/businessGuy.svg": "/portfolio/static/media/businessGuy.11a8091b.svg",
     "static/media/businessmangreets.svg": "/portfolio/static/media/businessmangreets.820739fd.svg",
     "static/media/businessmanspeaks.svg": "/portfolio/static/media/businessmanspeaks.ad85d35b.svg",
@@ -20,12 +19,13 @@
     "static/media/introscreenPriceAnalyser.png": "/portfolio/static/media/introscreenPriceAnalyser.7ea971ec.png",
     "static/media/laptopGuy.svg": "/portfolio/static/media/laptopGuy.0a434779.svg",
     "static/media/sauna.png": "/portfolio/static/media/sauna.d414fb7c.png",
+    "static/media/shipRadar.png": "/portfolio/static/media/shipRadar.8ffd3480.png",
     "static/media/wrenchGuy.svg": "/portfolio/static/media/wrenchGuy.659d6d5e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e92c632a.js",
     "static/js/2.edca357e.chunk.js",
     "static/css/main.55512777.chunk.css",
-    "static/js/main.ad4887bb.chunk.js"
+    "static/js/main.be2d5f8e.chunk.js"
   ]
 }
